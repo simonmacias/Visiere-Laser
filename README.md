@@ -12,7 +12,7 @@ Matériaux:
 - feuille de polypropylene 0.8mm
 - feuille de transparent A4 (retroprojecteur, couverture pour reliure transparente)
 Outillage:
-- découpe laser
+- découpe laser 390 mm * 390 mm minimum
 - perforeuse 4 trous
 Paramètres de coupe :
 - laser CO2 60W à 100% de sa puissance
@@ -23,6 +23,8 @@ Largeur maxi : 18mm
 Assemblage:
 - veillez à perforer les transparents bien au centre
 Prix de revient : moins de 2€ par pièce (hors temps d'assemblage)
+
+Ce projet est une modification de la visière ELVI10A4 crée par l'Électrolab (https://code.electrolab.fr/covid-19/visiere)
 This work is licensed under a Creative Commons :
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/
