@@ -12,16 +12,16 @@ Pensez à la livraison et contactez les centres hospitaliers pour vous accorder 
  # Matériaux:
 - feuille de polypropylene 0.8mm
 - feuille de transparent A4 (retroprojecteur, couverture pour reliure transparente)
-  # Outillage:
+ # Outillage:
 - découpe laser 390 mm * 390 mm minimum
 - perforeuse 4 trous
-  # Paramètres de coupe :
+ # Paramètres de coupe :
 - laser CO2 60W à 100% de sa puissance
 - avance de 10 mm/sec
-  # Note :
+ # Note :
 Ce design est aussi compatible avec des élastiques de bureautique, de couture et à garrot.
 Largeur maxi : 18mm
-  # Assemblage:
+ # Assemblage:
 - veillez à perforer les transparents bien au centre
 Prix de revient : moins de 2€ par pièce (hors temps d'assemblage)
 - Tour de tête entre 52,5 et 63 cm
