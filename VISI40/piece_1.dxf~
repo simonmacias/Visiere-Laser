@@ -33,7 +33,7 @@ $EXTMAX
  10
 195.0000001289183
  20
-60
+50
  30
 0
   9
@@ -1111,9 +1111,9 @@ AcDbViewportTableRecord
  21
 1
  12
-113.2788836250008
+114.7332487500001
  22
-64.15366162500047
+58.98258562500007
  13
 0
  23
@@ -1139,9 +1139,9 @@ AcDbViewportTableRecord
  37
 0
  40
-151.2539730000011
+149.3148195000002
  41
-2
+2.025974025974026
  42
 50
  43
@@ -2287,7 +2287,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-standard
+Standard
  70
     0
  40
@@ -2301,7 +2301,7 @@ standard
  42
 1
   3
-standard
+txt
   4
 
   0
@@ -4795,107 +4795,13 @@ ByLayer
 100
 AcDbLine
  10
--50
+-30
  20
-30
- 11
 50
- 21
-30
-  0
-LINE
-  5
-7D
-100
-AcDbEntity
-  8
-cotes
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--50
- 20
-30
  11
--50
+70
  21
-34
-  0
-LINE
-  5
-7E
-100
-AcDbEntity
-  8
-cotes
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
 50
- 20
-30
- 11
-50
- 21
-35
-  0
-MTEXT
-  5
-7F
-100
-AcDbEntity
-  8
-cotes
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
--10
- 20
-40
- 30
-0
- 40
-6
- 41
-22.66666666666723
- 71
-    1
- 72
-    1
-  1
-100mm
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
   0
 ENDSEC
   0
