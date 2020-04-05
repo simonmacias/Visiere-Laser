@@ -1,10 +1,13 @@
 # Visière-Laser
-Projet de visiere de protection en découpe laser pour la lutte contre le COVID-19 !
+Projet de visiere de protection en découpe laser pour la lutte contre le COVID-19 !  
+
 Si vous êtes malade ou si vous présentez des symptômes, ne produisez pas !
+  
 Afin d'éviter la contamination des visieres pendant la production, l'assemblage et avant toute manipulation des pièces :
-Portez un masque, quelque soit son type,
-Lavez-vous les mains au savon ou avec un gel hydroalcoolique avant et régulièrement pendant l'assemblage,
-Stockez les pieces produites dans des sacs plastiques.
+- Portez un masque, quelque soit son type,
+- Lavez-vous les mains au savon ou avec un gel hydroalcoolique avant et régulièrement pendant l'assemblage,
+- Stockez les pieces produites dans des sacs plastiques.
+  
 Les conseils donnés pas le Réseau Francais des Fablab sont bien rédigés, n'hésitez pas à vous y référer:
 http://www.fablab.fr/coronavirus/prototypage-et-projets/article/2-visieres-de-protection-coronavirus
 Pensez à la livraison et contactez les centres hospitaliers pour vous accorder sur la procédure à suivre.
