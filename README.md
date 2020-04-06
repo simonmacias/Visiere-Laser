@@ -13,7 +13,7 @@ http://www.fablab.fr/coronavirus/prototypage-et-projets/article/2-visieres-de-pr
 Pensez à la livraison et contactez les centres hospitaliers pour vous accorder sur la procédure à suivre.
 
  # Matériaux:
-- feuille de polypropylene 0.8mm
+- feuille de polypropylene 0.8mm (https://www.polydis.fr/epages/8d7c81fe-552a-11e0-822f-000d609a287c.sf/fr_FR/?ObjectPath=/Shops/8d7c81fe-552a-11e0-822f-000d609a287c/Products/PPP08)
 - feuille de transparent A4 (retroprojecteur, couverture pour reliure transparente)
  # Outillage:
 - découpe laser 390 mm * 100 mm minimum pour le modèle VISI40
