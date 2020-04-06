@@ -16,17 +16,18 @@ Pensez à la livraison et contactez les centres hospitaliers pour vous accorder 
 - feuille de polypropylene 0.8mm
 - feuille de transparent A4 (retroprojecteur, couverture pour reliure transparente)
  # Outillage:
-- découpe laser 390 mm * 390 mm minimum
+- découpe laser 390 mm * 100 mm minimum pour le modèle VISI40
+- découpe laser 700 mm * 100 mm minimum pour le modèle VISI70
 - perforeuse 4 trous
  # Paramètres de coupe :
-- laser CO2 60W à 100% de sa puissance
-- avance de 10 mm/sec
+- laser CO2 60W à 100% de sa puissance, avance de 10 mm/sec
+- laser CO2 130 à 100% de sa puissance, avance 40 mm/sec
  # Note :
 Ce design est aussi compatible avec des élastiques de bureautique, de couture et à garrot.
 Largeur maxi : 18mm
  # Assemblage:
 - veillez à perforer les transparents bien au centre
-Prix de revient : moins de 2€ par pièce (hors temps d'assemblage)
+Prix de revient : 2€ par pièce (hors temps d'assemblage)
 - Tour de tête entre 52,5 et 63 cm
 
 Ce projet est une modification de la visière ELVI10A4 crée par l'Électrolab (https://code.electrolab.fr/covid-19/visiere)
