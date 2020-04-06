@@ -21,7 +21,7 @@ Pensez à la livraison et contactez les centres hospitaliers pour vous accorder 
 - perforeuse 4 trous
  # Paramètres de coupe :
 - laser CO2 60W à 100% de sa puissance, avance de 10 mm/sec
-- laser CO2 130 à 100% de sa puissance, avance 40 mm/sec
+- laser CO2 130W à 100% de sa puissance, avance 40 mm/sec
  # Note :
 Ce design est aussi compatible avec des élastiques de bureautique, de couture et à garrot.
 Largeur maxi : 18mm
