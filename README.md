@@ -12,6 +12,8 @@ Les conseils donnés pas le Réseau Francais des Fablab sont bien rédigés, n'h
 http://www.fablab.fr/coronavirus/prototypage-et-projets/article/2-visieres-de-protection-coronavirus
 Pensez à la livraison et contactez les centres hospitaliers pour vous accorder sur la procédure à suivre.
 
+Ce modèle à été validé par le CHU de Poitiers.
+
  # Matériaux:
 - feuille de polypropylene 0.8mm (https://www.polydis.fr/epages/8d7c81fe-552a-11e0-822f-000d609a287c.sf/fr_FR/?ObjectPath=/Shops/8d7c81fe-552a-11e0-822f-000d609a287c/Products/PPP08)
 - feuille de transparent A4 (retroprojecteur, couverture pour reliure transparente)
