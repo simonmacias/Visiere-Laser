@@ -38,5 +38,5 @@ Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/
 
 Projet porté par Julien Rat et Simon Macias.
-Avec l'aide de : Sylvain Réau, Thomas, Marie Langelier, Marcellin Dauty.
+Avec l'aide de : Marie Langelier, Marcellin Dauty, Sylvain de Toillettes & Co et Thomas de Lomatia.
 
