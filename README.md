@@ -34,3 +34,7 @@ Ce projet est une modification de la visière ELVI10A4 crée par l'Électrolab (
 This work is licensed under a Creative Commons :
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-sa/4.0/
+
+Projet porté par Julien Rat et Simon Macias.
+Avec l'aide de : Sylvain Réau, Thomas, Marie Langelier, Marcellin Dauty.
+
