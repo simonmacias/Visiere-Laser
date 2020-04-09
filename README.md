@@ -28,6 +28,8 @@ Ce modèle à été validé par le CHU de Poitiers.
 Ce design est aussi compatible avec des élastiques de bureautique, de couture et à garrot.
 Largeur maxi : 18mm
  ## Assemblage:
+- Notice de montage sont disponibles ici :
+VISI 70 : [Notice VISI 70](/VISI70/NoticeMontageVISI70.pdf)
 - veillez à perforer les transparents bien au centre
 Prix de revient : 2€ par pièce (hors temps d'assemblage)
 - Tour de tête entre 52,5 et 63 cm
