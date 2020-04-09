@@ -30,7 +30,7 @@ Largeur maxi : 18mm
  ## Assemblage:
 - Notice de montage sont disponibles en ici :
 
-[Notice VISI 70](https://raw.githubusercontent.com/simonmacias/Visiere-Laser/raw/master/VISI70/NoticeMontageVISI70.pdf)
+[Notice VISI 70](https://github.com/simonmacias/Visiere-Laser/raw/master/VISI70/NoticeMontageVISI70.pdf)
 - veillez à perforer les transparents bien au centre
 Prix de revient : 2€ par pièce (hors temps d'assemblage)
 - Tour de tête entre 52,5 et 63 cm
