@@ -40,3 +40,4 @@ https://creativecommons.org/licenses/by-sa/4.0/
 Projet porté par Julien Rat et Simon Macias.
 Avec l'aide de : Marie Langelier, Marcellin Dauty, Sylvain de Toillettes & Co et Thomas de Lomatia.
 
+![FINE_EQUIPE](VISI40/Photos/fine_equipe.JPG)
