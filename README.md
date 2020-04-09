@@ -15,7 +15,7 @@ Pensez à la livraison et contactez les centres hospitaliers pour vous accorder 
 Ce modèle à été validé par le CHU de Poitiers.
 
  ## Matériaux:
-- feuille de polypropylene 0.8mm (https://www.polydis.fr/epages/8d7c81fe-552a-11e0-822f-000d609a287c.sf/fr_FR/?ObjectPath=/Shops/8d7c81fe-552a-11e0-822f-000d609a287c/Products/PPP08)
+- feuille de polypropylene 0.8mm [On peut en trouver ici](https://www.polydis.fr/epages/8d7c81fe-552a-11e0-822f-000d609a287c.sf/fr_FR/?ObjectPath=/Shops/8d7c81fe-552a-11e0-822f-000d609a287c/Categories/Plastiques/%22Polypropyl%C3%A8ne%20compact%22/%22Les%20classiques%20compact%22/Plaques_polypropylene_08_mm)
 - feuille de transparent A4 (retroprojecteur, couverture pour reliure transparente)
  ## Outillage:
 - découpe laser 390 mm * 100 mm minimum pour le modèle VISI40
