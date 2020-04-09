@@ -28,7 +28,7 @@ Ce modèle à été validé par le CHU de Poitiers.
 Ce design est aussi compatible avec des élastiques de bureautique, de couture et à garrot.
 Largeur maxi : 18mm
  ## Assemblage:
-- Notice de montage sont disponibles en ici :
+- Les notices de montage sont disponibles ici :
 
 [Notice VISI 70](https://github.com/simonmacias/Visiere-Laser/raw/master/VISI70/NoticeMontageVISI70.pdf)
 - veillez à perforer les transparents bien au centre
