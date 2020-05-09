@@ -1,5 +1,5 @@
 # Visière-Laser
-Projet de visiere de protection en découpe laser pour la lutte contre le COVID-19 !  
+Projet de visiere Anti-Projection découpée à la découpe laser pour la lutte contre le COVID-19 !  
 
 Si vous êtes malade ou si vous présentez des symptômes, ne produisez pas !
   
